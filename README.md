@@ -5,11 +5,11 @@ Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketler
 ---
 
 ## Özellikler
-**Proxy Kontrolü ve Kullanımı**: Geçerli proxy adresi seçilerek bağlantı anonimleştirilmektedir.
-**Google Arama Sonuçları Üzerinden Veri Toplama**: Şirket iletişim sayfasına ulaşıp iletişim bilgileri kazılmaktadır.
-**Telefon ve E-posta Bilgisi Çekme**: Sayfadaki telefon numaraları ve e-posta adresleri düzenlenerek elde edilir.
-**Batch İşleme ve Kayıt Tutma**: İşlenen batch'ler kaydedilir, böylece işlem yeniden başlatıldığında aynı batch tekrar işlenmez.
-**Çıktıyı Excel Dosyasına Kaydetme**: Her batch işlenip tamamlandığında sonuçlar Excel dosyasına kaydedilir.
+- **Proxy Kontrolü ve Kullanımı**: Geçerli proxy adresi seçilerek bağlantı anonimleştirilmektedir.
+- **Google Arama Sonuçları Üzerinden Veri Toplama**: Şirket iletişim sayfasına ulaşıp iletişim bilgileri kazılmaktadır.
+- **Telefon ve E-posta Bilgisi Çekme**: Sayfadaki telefon numaraları ve e-posta adresleri düzenlenerek elde edilir.
+- **Batch İşleme ve Kayıt Tutma**: İşlenen batch'ler kaydedilir, böylece işlem yeniden başlatıldığında aynı batch tekrar işlenmez.
+- **Çıktıyı Excel Dosyasına Kaydetme**: Her batch işlenip tamamlandığında sonuçlar Excel dosyasına kaydedilir.
 
 
 ## Gerekli Paketler ve Araçlar
@@ -35,9 +35,10 @@ Chrome sürümünüzle uyumlu chromedriver indirilip belirtilen dosya yoluna kay
 - Kodda belirtilen proxy listesi çalışabilir ancak daha güncel proxy adreslerini sağlayarak bu listeyi genişletebilirsiniz.
   
 ## Kullanım
-train.xlsx dosyasını hazırlayın ve birinci sütunda şirket isimlerini belirtin.
+`train.xlsx` dosyasını hazırlayın ve birinci sütunda şirket isimlerini belirtin.
 Proje dosyasını çalıştırarak iletişim bilgilerini kazımaya başlayın:
-```bash
+
+```python
 python <dosya_adı>.py
 ```
 
