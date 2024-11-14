@@ -2,6 +2,9 @@
 
 Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketlerin iletişim sayfalarına erişip e-posta adresi ve telefon numarası gibi iletişim bilgilerini kazımayı amaçlar. Web kazıma işlemi sırasında proxy kullanılarak anonimlik sağlanmaktadır.
 
+## SWOT Analizi
+
+
 ---
 
 ## Özellikler
@@ -10,6 +13,8 @@ Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketler
 - **Telefon ve E-posta Bilgisi Çekme**: Sayfadaki telefon numaraları ve e-posta adresleri düzenlenerek elde edilir.
 - **Batch İşleme ve Kayıt Tutma**: İşlenen batch'ler kaydedilir, böylece işlem yeniden başlatıldığında aynı batch tekrar işlenmez.
 - **Çıktıyı Excel Dosyasına Kaydetme**: Her batch işlenip tamamlandığında sonuçlar Excel dosyasına kaydedilir.
+
+## Ağ Diyagramı
 
 
 ## Gerekli Paketler ve Araçlar
