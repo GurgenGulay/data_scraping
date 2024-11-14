@@ -15,7 +15,7 @@ Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketler
 - **Çıktıyı Excel Dosyasına Kaydetme**: Her batch işlenip tamamlandığında sonuçlar Excel dosyasına kaydedilir.
 
 ## Ağ Diyagramı
-![Ağ Diyagramı](images/proje ağ diyagramı.PNG)
+![Ağ Diyagramı](images/projeağdiyagramı.PNG)
 
 ## Gerekli Paketler ve Araçlar
 Proje aşağıdaki Python paketlerini kullanmaktadır:
