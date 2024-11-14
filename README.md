@@ -3,7 +3,7 @@
 Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketlerin iletişim sayfalarına erişip e-posta adresi ve telefon numarası gibi iletişim bilgilerini kazımayı amaçlar. Web kazıma işlemi sırasında proxy kullanılarak anonimlik sağlanmaktadır.
 
 ## SWOT Analizi
-
+![SWOT Analizi](images/SWOT.png)
 
 ---
 
@@ -15,7 +15,7 @@ Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketler
 - **Çıktıyı Excel Dosyasına Kaydetme**: Her batch işlenip tamamlandığında sonuçlar Excel dosyasına kaydedilir.
 
 ## Ağ Diyagramı
-
+![Ağ Diyagramı](images/proje ağ diyagramı.png)
 
 ## Gerekli Paketler ve Araçlar
 Proje aşağıdaki Python paketlerini kullanmaktadır:
