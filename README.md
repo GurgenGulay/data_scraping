@@ -1,6 +1,6 @@
 # Şirket İletişim Bilgileri Web Kazıma Projesi
 
-Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketlerin iletişim sayfalarına erişip e-posta adresi ve telefon numarası gibi iletişim bilgilerini kazımayı amaçlar. Web kazıma işlemi sırasında proxy kullanılarak anonimlik sağlanmaktadır.
+Bu proje, verilen şirket isimleri üzerinden Google'da arama yaparak şirketlerin iletişim sayfalarına erişip e-posta adresi ve telefon numarası gibi iletişim bilgilerini kazımayı amaçlar. Web kazıma işlemi sırasında proxy kullanılarak anonimlik sağlanmaktadır. Ağ diyagramı ve SWOT Analizi images klasöründe yer almaktadır.
 
 
 ---
